@@ -14,16 +14,16 @@ Two tools, two kinds of problem:
 
 ---
 
-## NetworkTests Monitor — Download v0.3.8
+## NetworkTests Monitor — Download v0.4.3
 
 **Free for personal use · No account · All data stays on your machine**
 
 | Platform | File | SHA-256 |
 |---|---|---|
-| macOS 12+ (Universal, signed & notarized) | [NetworkTests-Monitor-0.3.8.pkg](https://github.com/networktests/networktests/releases/download/v0.3.8/NetworkTests-Monitor-0.3.8.pkg) | `7f78be8384652396a7fca5d07b293e76cc5d24b074a95a727fc8f4660c25bbb7` |
-| Windows 10/11 x64 (signed MSI) | [NetworkTests-Monitor-setup-0.3.8.msi](https://github.com/networktests/networktests/releases/download/v0.3.8/NetworkTests-Monitor-setup-0.3.8.msi) | `8b32bed4717b1270604445beae98c85071bca0ed8b42ccef4d9f15592a837bf2` |
-| Linux x86_64 | [networktests-monitor-0.3.8-linux-amd64.tar.gz](https://github.com/networktests/networktests/releases/download/v0.3.8/networktests-monitor-0.3.8-linux-amd64.tar.gz) | `a10de0f790a268325e1795c771e31c20fb91501e1b4fde17ea406e1b57dc8ab4` |
-| Linux arm64 | [networktests-monitor-0.3.8-linux-arm64.tar.gz](https://github.com/networktests/networktests/releases/download/v0.3.8/networktests-monitor-0.3.8-linux-arm64.tar.gz) | `13b0999754de107cc7214ff51eed7ca21d0d8d37563aa3ab457583e546398b52` |
+| macOS 12+ (Universal, signed & notarized) | [NetworkTests-Monitor-0.4.3.pkg](https://github.com/networktests/networktests/releases/download/v0.4.3/NetworkTests-Monitor-0.4.3.pkg) | `b6a8b79e57a37c7a365435306c6951db684197876b510cbe9478c74857e5b4ad` |
+| Windows 10/11 x64 (signed MSI) | [NetworkTests-Monitor-setup-0.4.3.msi](https://github.com/networktests/networktests/releases/download/v0.4.3/NetworkTests-Monitor-setup-0.4.3.msi) | `449270efbc17c70b02b4d26af4914c67c333424f7761a94bf8a13456b7b8cb5e` |
+| Linux x86_64 | [networktests-monitor-0.4.3-linux-amd64.tar.gz](https://github.com/networktests/networktests/releases/download/v0.4.3/networktests-monitor-0.4.3-linux-amd64.tar.gz) | `079c7d3bcc1310a63c8148146eb9727f82c5ce8238b7f6bbcc473e8f75c00d32` |
+| Linux arm64 | [networktests-monitor-0.4.3-linux-arm64.tar.gz](https://github.com/networktests/networktests/releases/download/v0.4.3/networktests-monitor-0.4.3-linux-arm64.tar.gz) | `ca3a2558224ba03a7d3d89f78b73b109e31e107197c236efd05a8d3d3e59eb70` |
 
 Linux one-liner (installs dependencies, the app, and a menu entry):
 
