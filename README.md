@@ -53,9 +53,9 @@ Monitoring history lives in a local database on your computer. No account, no si
 - **Linux** x86_64/arm64, WebKitGTK 4.1 + GTK 3 (the installer handles these on Ubuntu/Fedora). Needs a desktop session; Wi-Fi detail not read yet; GNOME tray needs the AppIndicator extension.
 - Installers are signed by **HostAnywhere LLC** — the company behind networktests.com.
 
-## Source code
+## Issues & feedback
 
-Currently distributed as signed binaries; the source is not yet published. Bug reports and feature requests for the app **and** the website are welcome in [Issues](https://github.com/networktests/networktests/issues).
+NetworkTests Monitor is distributed as signed binaries (closed source). This repository hosts releases and documentation — bug reports and feature requests for the app **and** the website are very welcome in [Issues](https://github.com/networktests/networktests/issues).
 
 ## Learn more
 
