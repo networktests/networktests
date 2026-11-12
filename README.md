@@ -24,10 +24,10 @@ Two tools, two kinds of problem:
 
 | Platform | File | SHA-256 |
 |---|---|---|
-| macOS 12+ (Universal, signed & notarized) | [NetworkTests-Monitor-0.4.6.pkg](https://github.com/networktests/networktests/releases/download/v0.4.6/NetworkTests-Monitor-0.4.6.pkg) | `5a102dfd19639515962fc2993b128f08bfb465f8ff2e2c86b06163b6fd99fb41` |
-| Windows 10/11 x64 (signed MSI) | [NetworkTests-Monitor-setup-0.4.6.msi](https://github.com/networktests/networktests/releases/download/v0.4.6/NetworkTests-Monitor-setup-0.4.6.msi) | `d889cc649293a47afa006d2e418bab4164c913801e9c58d8e2c6f93dda1ac49b` |
-| Linux x86_64 | [networktests-monitor-0.4.6-linux-amd64.tar.gz](https://github.com/networktests/networktests/releases/download/v0.4.6/networktests-monitor-0.4.6-linux-amd64.tar.gz) | `3b07e9f92c014c9035077ee6d96610def8c91d52efddbce45b30b1890efb0de4` |
-| Linux arm64 | [networktests-monitor-0.4.6-linux-arm64.tar.gz](https://github.com/networktests/networktests/releases/download/v0.4.6/networktests-monitor-0.4.6-linux-arm64.tar.gz) | `cdada352a94f5b87f261a2bb60ce61fcf92e398f88658ab50c274b46dea91c6a` |
+| macOS 12+ (Universal, signed & notarized) | [NetworkTests-Monitor-0.4.7.pkg](https://github.com/networktests/networktests/releases/download/v0.4.6/NetworkTests-Monitor-0.4.7.pkg) | `2ad81360c6381502a01f1ff5b36a8ae16d2f7c759eac4d74a19d36ac64674f98` |
+| Windows 10/11 x64 (signed MSI) | [NetworkTests-Monitor-setup-0.4.7.msi](https://github.com/networktests/networktests/releases/download/v0.4.6/NetworkTests-Monitor-setup-0.4.7.msi) | `971d2a628e7287d1d2221e92ddf2edfd8498378d35c74fbe613ac42b4db7ac5c` |
+| Linux x86_64 | [networktests-monitor-0.4.7-linux-amd64.tar.gz](https://github.com/networktests/networktests/releases/download/v0.4.6/networktests-monitor-0.4.7-linux-amd64.tar.gz) | `13901ad777930240345ae5ba123eacd3bab56192d0e27f21fe7854537c224d61` |
+| Linux arm64 | [networktests-monitor-0.4.7-linux-arm64.tar.gz](https://github.com/networktests/networktests/releases/download/v0.4.6/networktests-monitor-0.4.7-linux-arm64.tar.gz) | `33cbb10322dc7b7dbe9b959aa5366ea4d9850626e90c10c08e8bdbd94db7621a` |
 
 Linux one-liner (installs dependencies, the app, and a menu entry):
 
